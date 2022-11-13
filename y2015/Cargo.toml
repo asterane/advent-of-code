@@ -10,6 +10,7 @@ members = [
         "d07",
         "d08",
         "d09",
+        "d10",
 ]
 
 [profile.dev]
